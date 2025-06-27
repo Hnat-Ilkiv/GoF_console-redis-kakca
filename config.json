@@ -1,0 +1,12 @@
+{
+    "output": "console",
+    "redis": {
+        "host": "localhost",
+        "port": 6379,
+        "db": 0
+    },
+    "kafka": {
+        "topic": "animals-data",
+        "bootstrap_servers": "localhost:9092"
+    }
+}
